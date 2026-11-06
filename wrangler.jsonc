@@ -7,7 +7,7 @@
 
   // Your email domain — used for sender addresses (local@MAIL_DOMAIN).
   "vars": {
-    "MAIL_DOMAIN": "example.com"
+    "MAIL_DOMAIN": "coldsoul.net"
   },
 
   // Create with: wrangler d1 create cf-mail
